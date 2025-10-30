@@ -1,0 +1,36 @@
+body {
+    background-color: #255a56;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #4b2b2b;
+    color: white;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+.outer-box {
+    width: 900px;
+    margin: 0 auto;
+    border: 5px solid red;
+    background-color: black;
+    padding: 30px;
+}
+
+.inner-box {
+    background-color: aquamarine;
+    padding: 15px;
+    margin: 20px;
+    text-align: left;
+}
+
+.divider {
+    height: 15px;
+    background-color: black;
+    margin: 10px 0;
+}
